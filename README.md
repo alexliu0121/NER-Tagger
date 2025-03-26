@@ -89,8 +89,6 @@ Here’s a peek at how the tagger performs. Images below show sample outputs:
 ![Neural Model Output](screenshots/neural_output.png)  
 *Caption: BiLSTM-CRF with CNN tagging on test set.*
 
-![Feature Weights](screenshots/feature_weights.png)  
-*Caption: Top and bottom feature weights from the linear model.*
 
 
 ## What I Learned
